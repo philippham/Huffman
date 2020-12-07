@@ -1,0 +1,13 @@
+C:\Users\pnpham\Source\Repos\HuffmanTree\bin\Debug\netcoreapp3.1\HuffmanTree.exe
+C:\Users\pnpham\Source\Repos\HuffmanTree\bin\Debug\netcoreapp3.1\HuffmanTree.deps.json
+C:\Users\pnpham\Source\Repos\HuffmanTree\bin\Debug\netcoreapp3.1\HuffmanTree.runtimeconfig.json
+C:\Users\pnpham\Source\Repos\HuffmanTree\bin\Debug\netcoreapp3.1\HuffmanTree.runtimeconfig.dev.json
+C:\Users\pnpham\Source\Repos\HuffmanTree\bin\Debug\netcoreapp3.1\HuffmanTree.dll
+C:\Users\pnpham\Source\Repos\HuffmanTree\bin\Debug\netcoreapp3.1\HuffmanTree.pdb
+C:\Users\pnpham\Source\Repos\HuffmanTree\obj\Debug\netcoreapp3.1\HuffmanTree.csprojAssemblyReference.cache
+C:\Users\pnpham\Source\Repos\HuffmanTree\obj\Debug\netcoreapp3.1\HuffmanTree.AssemblyInfoInputs.cache
+C:\Users\pnpham\Source\Repos\HuffmanTree\obj\Debug\netcoreapp3.1\HuffmanTree.AssemblyInfo.cs
+C:\Users\pnpham\Source\Repos\HuffmanTree\obj\Debug\netcoreapp3.1\HuffmanTree.csproj.CoreCompileInputs.cache
+C:\Users\pnpham\Source\Repos\HuffmanTree\obj\Debug\netcoreapp3.1\HuffmanTree.dll
+C:\Users\pnpham\Source\Repos\HuffmanTree\obj\Debug\netcoreapp3.1\HuffmanTree.pdb
+C:\Users\pnpham\Source\Repos\HuffmanTree\obj\Debug\netcoreapp3.1\HuffmanTree.genruntimeconfig.cache
