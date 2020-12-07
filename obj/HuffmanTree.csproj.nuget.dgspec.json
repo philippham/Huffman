@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pnpham\\Source\\Repos\\HuffmanTree\\HuffmanTree.csproj": {}
+    "C:\\Users\\pnpham\\Documents\\PersonalWorkplace\\Huffman\\HuffmanTree.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pnpham\\Source\\Repos\\HuffmanTree\\HuffmanTree.csproj": {
+    "C:\\Users\\pnpham\\Documents\\PersonalWorkplace\\Huffman\\HuffmanTree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pnpham\\Source\\Repos\\HuffmanTree\\HuffmanTree.csproj",
+        "projectUniqueName": "C:\\Users\\pnpham\\Documents\\PersonalWorkplace\\Huffman\\HuffmanTree.csproj",
         "projectName": "HuffmanTree",
-        "projectPath": "C:\\Users\\pnpham\\Source\\Repos\\HuffmanTree\\HuffmanTree.csproj",
+        "projectPath": "C:\\Users\\pnpham\\Documents\\PersonalWorkplace\\Huffman\\HuffmanTree.csproj",
         "packagesPath": "C:\\Users\\pnpham\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pnpham\\Source\\Repos\\HuffmanTree\\obj\\",
+        "outputPath": "C:\\Users\\pnpham\\Documents\\PersonalWorkplace\\Huffman\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
